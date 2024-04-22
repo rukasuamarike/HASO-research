@@ -4,7 +4,7 @@
 ---
 
 ## Resources
-### - Courses
+### - [Courses](#courses-1)
 
 
 ## Courses
