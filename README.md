@@ -5,5 +5,5 @@
 
 ## Resources
 ### Courses:
-- [edX ARM ML course](/edX-ARM-ML-course/)
+- [edX ARM ML course](/edX%20ARM%20ML%20Course/)
 
