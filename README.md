@@ -1,5 +1,5 @@
 # HASO senior design research
-### Project members: Lucas, Monica, ...
+### Project members: Lucas, Monica, Raphael ...
 
 ---
 
